@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[INTERNSHIP - RFM SEGMENTATION AND PROPENSITY MODELING](https://colab.research.google.com/drive/1J9idJFZMbMx4a63RCy7WwMk9iTKymRke?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
