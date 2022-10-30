@@ -3,7 +3,8 @@ logo: "/logo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello! You can view my Data Science projects on this page.
   <br><br>
-  Let's connect on Linkedin:
+  Let's connect on LinkedIn:
+  <br>
   <a href="https://www.linkedin.com/in/fian-eko-saputra-4a2014128/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
